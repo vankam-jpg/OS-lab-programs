@@ -48,3 +48,24 @@ else
 exit(0); 
 getch(); 
 } 
+
+
+output:
+Enter the index block: 21
+Enter no of blocks needed and no of files for the index 21 on the disk :
+5
+12
+14
+18
+19
+17
+Allocated
+File Indexed
+21-------->12 : 1
+21-------->14 : 1
+21-------->18 : 1
+21-------->19 : 1
+21-------->17 : 1
+Do you want to enter more file(Yes - 1/No - 0)0
+
+--------------------------------
